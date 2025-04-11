@@ -1,7 +1,7 @@
 # STRIDESAFE
 
 **Proyecto desarrollado por el Equipo 9 para el curso de Proyecto de Biodiseño 1**
-
+![Imagen del grupo](https://github.com/valeriavaler04/Proyectos/blob/main/grupo9/Captura%20de%20pantalla%202025-04-10%20185858.png)
 ## 👥 Integrantes
 
 - José Vera Meza  
